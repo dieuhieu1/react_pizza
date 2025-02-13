@@ -1,4 +1,4 @@
-# Spotify Clone - README
+# React_Pizza - README
 
 ## Overview
 This project is a React-based pizza ordering application. The app includes a home page, a menu page, an option to order pizzas, and a checkout page with payment functionality. The application uses React Redux for state management, allowing efficient handling of pizza menu, order details, and payment.
